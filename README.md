@@ -1,4 +1,4 @@
 automation
 ==========
 
-Various automation scripts
+Various automation scripts for Linux using Python Fabric module.
